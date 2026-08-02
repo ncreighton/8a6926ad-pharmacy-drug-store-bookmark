@@ -24,8 +24,6 @@ Stop losing critical pharmacy...
 
 Upgrade to the Pro version for **$29.99** and unlock all premium features.
 
-**[Buy on Gumroad](https://lunarautomata.gumroad.com/l/jybrqc)** — Instant download, lifetime updates
-
 **[Buy Now (Stripe)](https://buy.stripe.com/6oUeVdcLl6Ak09a1ZicZn2L)** — Secure checkout
 
 ## Installation
@@ -37,7 +35,6 @@ Upgrade to the Pro version for **$29.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
-- Pro customers get priority support via the [purchase platform](https://lunarautomata.gumroad.com/l/jybrqc)
 
 ## License
 
